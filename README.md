@@ -4,10 +4,10 @@
   
 
   <h4 align="center">
-   Need help deciding what to pack for your trip?
+   Need help getting organized for your next trip?
   </h4>
-
-This application has prebuilt packing list's for your next adventure. 
+  
+  Got Baggage helps you organize your packing lists for all your vacations!
 
 ## Table of Contents
 - [Overview](#Overview)
@@ -22,23 +22,24 @@ This application has prebuilt packing list's for your next adventure.
 
 ## Overview
 
-This was a group CapStone project with a combined Front End and Back End team. For the first time students were given the opportunity to work collaboratively in an agile workflow to build an application. The project demonstrates knowledge we've gained throughout Turing as well as exploring new technologies. The Front End and Back End team implemented graphQL for the first time and used circle ci for continuous integration. 
+Got Baggage is a full-stack application, built to satisfy Turing School of Software and Design's Mod 4 Capstone project assignment. For the first time, we were given the opportunity to work collaboratively on combined front- and back-end teams to produce a full-stack application. The project demonstrates knowledge we've gained throughout Turing as well as exploring new technologies we taught ourselves for this project (GraphQL and Circle CI).
 
-* Demonstrate knowledge you’ve gained throughout Turing
-* Use an agile process to turn well defined requirements into deployed and production ready software
-* Gain experience dividing applications into components and domains of responsibilities to facilitate multi-developer teams. Service oriented architecture concepts and patterns are highly encouraged.
-* Explore and implement new concepts, patterns, or libraries that have not been explicitly taught while at Turing
-* Practice an advanced, professional git workflow including a Pull Request Review
+## Learning outcomes for this project included:
+* Demonstrate knowledge gained throughout Turing
+* Use an agile process to turn well-defined requirements into deployed and production-ready software
+* Gain experience dividing applications into components and domains of responsibilities to facilitate multi-developer teams. Service-oriented architecture concepts and patterns are highly encouraged.
+* Explore and implement new concepts, patterns, or libraries that have not been explicitly taught while at Turing (our team chose GraphQL and CircleCI)
+* Practice an advanced, professional Git workflow
 * Gain experience using continuous integration tools to build and automate the deployment of features
 * Build applications that execute in development, test, CI, and production environments
 * Focus on communication between front-end and back-end teams in order to complete and deploy features that have been outlined by the project spec
 
 ## Features:
-  * As a user I can Create a Trip to view a predetermined list of packing essentials and activity items.
-  * As a user I can view a list of created trips.
-  * As a user I can view an itemized list of packing essentials and activity items.
-  * As a user I can delete items in my item list.
-  * As a user I can add items to my item list.
+  * As a user, I can create a trip to view a list of recommended packing essentials and activity items.
+  * As a user, I can view a list of my created trips.
+  * As a user, I can view an itemized checklist of packing essentials and activity items.
+  * As a user, I can delete items from my item list (and deleted items will stay deleted).
+  * As a user, I can add user-created items to my list (and newly added items will persist across sessions).
 
 ## Technologies
 
@@ -52,7 +53,7 @@ This was a group CapStone project with a combined Front End and Back End team. F
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ## Links
-* Deployed Project: [Got Baggage](https://fe-gotbaggage.vercel.app/)
+* Deployed Project: [Got Baggage](https://fe-gotbaggage-psi.vercel.app/)
 * Backend: [BE-got-Baggage](https://be-gotbaggage.fly.dev/graphql)
 * FE Deployed using ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 * Wireframe: [Miro](https://miro.com/app/board/uXjVP-8lUxU=/?share_link_id=671687208577)
